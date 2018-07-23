@@ -1,4 +1,4 @@
-# Arduino LED Control Ultrasonic Sensor
+# Ultrasonic Sensor Controlled Arduino LED
 
 1.  Install the FastLED and AnalogSmooth Arduino library.
 2.  Modify the pin numbers accordingly.
